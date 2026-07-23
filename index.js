@@ -12,7 +12,7 @@ function Recipe()
 
             {/* Card 1 */}
 <div className="card" style={{width: "18rem;"}}>
-  <img className="card-img-top" src="images1.jpg" alt="Card image cap"/>
+  <img className="card-img-top" src="images.jpg" alt="Card image cap"/>
   <div className="card-body">
      <ul className="list-group list-group-flush">
     <li className="list-group-item">2 Tablespoons extra virgin olive oil</li>
@@ -34,7 +34,7 @@ function Recipe()
 <div className="col-3">
 
 <div className="card" style={{width: "18rem;"}}>
-  <img className="card-img-top" src="images2.jpg" alt="Card image cap"/>
+  <img className="card-img-top" src="images (1).jpg" alt="Card image cap"/>
   <div className="card-body">
      <ul className="list-group list-group-flush">
     <li className="list-group-item">12 hard boiled eggs</li>
@@ -56,7 +56,7 @@ function Recipe()
 
             {/* Card 3 */}
 <div className="card" style={{width: "18rem;"}}>
-  <img className="card-img-top" src="images3.jpg" alt="Card image cap"/>
+  <img className= "card-img-top" src="granola-clusters.jpg" alt="Card image cap"/>
   <div className="card-body">
      <ul className="list-group list-group-flush">
     <li className="list-group-item">12 hard boiled eggs</li>
